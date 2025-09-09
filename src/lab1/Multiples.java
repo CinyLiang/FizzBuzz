@@ -18,4 +18,18 @@ public class Multiples {
         }
         return count;
     }
+
+    public static int multiples() {
+        int count = 0;
+        for (int i = 1; i < 1000; i++) {
+            boolean divisibleby3 = i % 3 == 0;
+            boolean divisibleby5 = i % 5 == 0;
+            if (divisibleby3 && divisibleby5) {
+                count += 1;
+            } else if (divisibleby3 || divisibleby5) {
+                count += 1;
+            }
+        }
+        return count;
+    }
 }
