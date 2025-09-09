@@ -208,7 +208,7 @@ That's your first big IntelliJ trick! There are lots more.
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
-- [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
+- [x] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have
   modified `FizzBuzz.java` (and possibly this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
@@ -407,7 +407,7 @@ in this file. You can then click that to conveniently rerun the tests.
 
 - [x] Make sure the tests all pass in the file.
 
-- [ ] If you didn't yet, also `add`, `commit`, and `push` this `Multiples.java` file to save your work
+- [x] If you didn't yet, also `add`, `commit`, and `push` this `Multiples.java` file to save your work
   and upload it to your GitHub repo.
 
 Once the tests are passing and your work is on GitHub, you are ready to submit your code to MarkUs!
@@ -417,7 +417,7 @@ simply submit the URL that can be used to clone your GitHub repo.
 Given that URL, we can then clone your repo and get our own copy of
 your code to run the tests on.
 
-- [ ] Submit your code to MarkUs
+- [x] Submit your code to MarkUs
   - copy the URL from GitHub that you used to clone **your fork of the FizzBuzz repo**.
   - log into MarkUs and go to the `week1git` assignment.
   - submit the URL by pasting the URL into the submission box; do not change anything.
