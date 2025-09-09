@@ -62,6 +62,8 @@ Do so now for the checkbox above.
 
 And now, back to Fizz Buzz!
 
+Hi!
+
 ## Fizz Buzz
 
 Fizz Buzz is a game where people sit in a circle. Counting from 1 and going around the circle,
